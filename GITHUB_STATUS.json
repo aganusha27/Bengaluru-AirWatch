@@ -3,8 +3,8 @@
   "branch": "main",
   "private": true,
   "push_verified": true,
-  "verified_artifact_commit": "15ea2d0bfcaba6c9e8b59d2c568bf6089cef3730",
-  "verified_remote_head": "15ea2d0bfcaba6c9e8b59d2c568bf6089cef3730",
-  "verified_at_utc": "2026-10-31T11:39:49.658174+00:00",
+  "verified_artifact_commit": "6a71ddd88217e73686cbe66205ce02085efd34de",
+  "verified_remote_head": "6a71ddd88217e73686cbe66205ce02085efd34de",
+  "verified_at_utc": "2026-10-31T11:43:33.001193+00:00",
   "note": "The complete project artifact commit was verified against GitHub. A subsequent small attestation commit records this verification."
 }

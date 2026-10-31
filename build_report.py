@@ -349,7 +349,7 @@ The empirical PM2.5 project is implemented and executed. Source rows: {m['raw_re
 - main.py: pipeline; build_report.py: report; render_report.py: PDF; verify_submission.py: delivered-file checks.
 
 ## Completed tasks
-Real OpenCity files acquired, hashes checked, actual schemas inspected, PySpark executed, all requested analyses completed, charts generated, outputs independently cross-checked, report generated, walkthrough and 25 viva questions prepared. Consult GITHUB_STATUS.json for verified push status and the final commit.
+Real OpenCity files acquired, hashes checked, actual schemas inspected, PySpark executed, all requested analyses completed, charts generated, outputs independently cross-checked, report generated, walkthrough and 25 viva questions prepared. Consult GITHUB_STATUS.json for verified push status and the verified artifact commit.
 
 ## Incomplete submission details
 {pending}
@@ -453,3 +453,4 @@ Coverage is incomplete; monitoring sites are not all neighborhoods; timezone con
     write('report/team_details.example.json',json.dumps({'author':'Project group','faculty_guide':'','members':[{'name':'','usn':'','responsibility':''}]},indent=2))
 
 if __name__=='__main__':build()
+

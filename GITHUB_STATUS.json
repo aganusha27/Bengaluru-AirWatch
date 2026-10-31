@@ -2,6 +2,9 @@
   "repository_url": "https://github.com/aganusha27/Bengaluru-AirWatch",
   "branch": "main",
   "private": true,
-  "push_verified": false,
-  "note": "Publication verification will be recorded after the artifact commit is pushed."
+  "push_verified": true,
+  "verified_artifact_commit": "15ea2d0bfcaba6c9e8b59d2c568bf6089cef3730",
+  "verified_remote_head": "15ea2d0bfcaba6c9e8b59d2c568bf6089cef3730",
+  "verified_at_utc": "2026-10-31T11:39:49.658174+00:00",
+  "note": "The complete project artifact commit was verified against GitHub. A subsequent small attestation commit records this verification."
 }

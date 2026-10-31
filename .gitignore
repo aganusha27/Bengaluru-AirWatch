@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.log
+data/raw/*.csv
+data/processed/*.csv
+spark-warehouse/
+artifacts/
+.idea/
+.vscode/
+*.tmp

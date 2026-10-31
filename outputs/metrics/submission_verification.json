@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "faculty_sections": 8,
+  "charts": 8,
+  "viva_questions": 25,
+  "report_pages": 18,
+  "report_images": 8,
+  "claim_ledger_values_checked": 5,
+  "raw_hashes_verified_if_present": true,
+  "independent_analytical_verification": "PASS",
+  "note": "Numerical report text and tables are built from independently verified output tables; administrative team fields require user details."
+}

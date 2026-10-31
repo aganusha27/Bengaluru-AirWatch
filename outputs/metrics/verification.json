@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Every processed hourly record matches independent pandas cleaning and aggregation",
+    "All station counts and summary statistics match pandas",
+    "Exact 95th percentiles and strict exceedance counts match pandas",
+    "All 15 station pairs match pandas inner-join spike counts and independence baseline",
+    "All five temporal table means and sample counts match pandas",
+    "Six-station complete-case spike distribution matches pandas",
+    "Common-hour station summaries and quartiles independently match pandas",
+    "All eight requested chart artifacts exist"
+  ],
+  "hourly_records": 92479,
+  "station_pairs": 15
+}

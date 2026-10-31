@@ -1,0 +1,19 @@
+station,reason,count
+"BTM Layout, Bengaluru - CPCB",valid,60435
+"BTM Layout, Bengaluru - CPCB",outside_study_window,22
+"Jayanagar 5th Block, Bengaluru - KSPCB",valid,63188
+"Peenya, Bengaluru - CPCB",outside_study_window,22
+"Peenya, Bengaluru - CPCB",valid,61882
+"Peenya, Bengaluru - CPCB",missing_or_invalid_pm25,3551
+,missing_station,6
+"Jayanagar 5th Block, Bengaluru - KSPCB",missing_or_invalid_pm25,3576
+"Jayanagar 5th Block, Bengaluru - KSPCB",outside_study_window,21
+"BTM Layout, Bengaluru - CPCB",missing_or_invalid_pm25,3387
+"Silk Board, Bengaluru - KSPCB",valid,62062
+"Silk Board, Bengaluru - KSPCB",outside_study_window,22
+"Bapuji Nagar, Bengaluru - KSPCB",valid,59982
+"Hebbal, Bengaluru - KSPCB",missing_or_invalid_pm25,5165
+"Hebbal, Bengaluru - KSPCB",valid,62774
+"Silk Board, Bengaluru - KSPCB",missing_or_invalid_pm25,8092
+"Bapuji Nagar, Bengaluru - KSPCB",missing_or_invalid_pm25,4212
+"Hebbal, Bengaluru - KSPCB",outside_study_window,21

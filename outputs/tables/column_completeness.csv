@@ -1,0 +1,175 @@
+file,column,missing,nonmissing,nonnumeric_nonmissing,numeric_min,numeric_max,negative_count
+blr-bapuji-nagar-kspcb-2024-25.csv,Station ID,0,64195,,,,
+blr-bapuji-nagar-kspcb-2024-25.csv,State,1,64194,,,,
+blr-bapuji-nagar-kspcb-2024-25.csv,City,1,64194,,,,
+blr-bapuji-nagar-kspcb-2024-25.csv,Station Name,1,64194,,,,
+blr-bapuji-nagar-kspcb-2024-25.csv,Timestamp,1,64194,,,,
+blr-bapuji-nagar-kspcb-2024-25.csv,PM2.5 (µg/m³),4213,59982,0.0,1.0,898.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,PM10 (µg/m³),3973,60222,0.0,1.0,406.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,NO (µg/m³),4467,59728,0.0,0.1,93.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,NO2 (µg/m³),2183,62012,0.0,0.1,220.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,NOx (ppb),1643,62552,0.0,0.0,126.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,NH3 (µg/m³),2178,62017,0.0,0.1,66.8,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,SO2 (µg/m³),1635,62560,0.0,0.1,85.6,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,CO (mg/m³),5423,58772,0.0,0.0,9.95,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,Ozone (µg/m³),2874,61321,0.0,0.1,418.6,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,Benzene (µg/m³),6496,57699,0.0,0.1,7.7,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,Toluene (µg/m³),6153,58042,0.0,0.1,17.6,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,Xylene (µg/m³),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,O Xylene (µg/m³),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,Eth-Benzene (µg/m³),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,MP-Xylene (µg/m³),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,AT (°C),1031,63164,0.0,14.4,39.8,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,RH (%),1127,63068,0.0,2.0,90.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,WS (m/s),64194,1,0.0,1.1,1.1,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,WD (deg),907,63288,0.0,69.0,315.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,RF (mm),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,TOT-RF (mm),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,SR (W/mt2),64195,0,0.0,,,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,BP (mmHg),908,63287,0.0,709.0,751.0,0.0
+blr-bapuji-nagar-kspcb-2024-25.csv,VWS (m/s),64195,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,Station ID,0,63845,,,,
+blr-btm-layout-cpcb-2024-25.csv,State,1,63844,,,,
+blr-btm-layout-cpcb-2024-25.csv,City,1,63844,,,,
+blr-btm-layout-cpcb-2024-25.csv,Station Name,1,63844,,,,
+blr-btm-layout-cpcb-2024-25.csv,Timestamp,1,63844,,,,
+blr-btm-layout-cpcb-2024-25.csv,PM2.5 (µg/m³),3388,60457,0.0,0.03,162.2,0.0
+blr-btm-layout-cpcb-2024-25.csv,PM10 (µg/m³),4772,59073,0.0,5.3,999.99,0.0
+blr-btm-layout-cpcb-2024-25.csv,NO (µg/m³),6845,57000,0.0,0.01,65.32,0.0
+blr-btm-layout-cpcb-2024-25.csv,NO2 (µg/m³),6729,57116,0.0,0.06,147.54,0.0
+blr-btm-layout-cpcb-2024-25.csv,NOx (ppb),6643,57202,0.0,0.0,162.83,0.0
+blr-btm-layout-cpcb-2024-25.csv,NH3 (µg/m³),7871,55974,0.0,1.21,300.14,0.0
+blr-btm-layout-cpcb-2024-25.csv,SO2 (µg/m³),2570,61275,0.0,0.02,177.58,0.0
+blr-btm-layout-cpcb-2024-25.csv,CO (mg/m³),1345,62500,0.0,0.0,4.44,0.0
+blr-btm-layout-cpcb-2024-25.csv,Ozone (µg/m³),549,63296,0.0,0.04,143.82,0.0
+blr-btm-layout-cpcb-2024-25.csv,Benzene (µg/m³),735,63110,0.0,0.0,1.75,0.0
+blr-btm-layout-cpcb-2024-25.csv,Toluene (µg/m³),736,63109,0.0,0.0,3.87,0.0
+blr-btm-layout-cpcb-2024-25.csv,Xylene (µg/m³),63845,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,O Xylene (µg/m³),63845,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,Eth-Benzene (µg/m³),1154,62691,0.0,0.02,1.47,0.0
+blr-btm-layout-cpcb-2024-25.csv,MP-Xylene (µg/m³),1153,62692,0.0,0.01,1.28,0.0
+blr-btm-layout-cpcb-2024-25.csv,AT (°C),63845,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,RH (%),2983,60862,0.0,1.19,100.0,0.0
+blr-btm-layout-cpcb-2024-25.csv,WS (m/s),2293,61552,0.0,0.01,8.83,0.0
+blr-btm-layout-cpcb-2024-25.csv,WD (deg),2289,61556,0.0,0.04,359.96,0.0
+blr-btm-layout-cpcb-2024-25.csv,RF (mm),63845,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,TOT-RF (mm),63845,0,0.0,,,0.0
+blr-btm-layout-cpcb-2024-25.csv,SR (W/mt2),3047,60798,0.0,0.01,976.74,0.0
+blr-btm-layout-cpcb-2024-25.csv,BP (mmHg),4137,59708,0.0,700.2,1098.8,0.0
+blr-btm-layout-cpcb-2024-25.csv,VWS (m/s),2257,61588,0.0,-4.84,1.29,60908.0
+blr-hebbal-kspcb-2024-25.csv,Station ID,0,67961,,,,
+blr-hebbal-kspcb-2024-25.csv,State,1,67960,,,,
+blr-hebbal-kspcb-2024-25.csv,City,1,67960,,,,
+blr-hebbal-kspcb-2024-25.csv,Station Name,1,67960,,,,
+blr-hebbal-kspcb-2024-25.csv,Timestamp,1,67960,,,,
+blr-hebbal-kspcb-2024-25.csv,PM2.5 (µg/m³),5166,62795,0.0,1.0,826.0,0.0
+blr-hebbal-kspcb-2024-25.csv,PM10 (µg/m³),2304,65657,0.0,2.0,490.0,0.0
+blr-hebbal-kspcb-2024-25.csv,NO (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,NO2 (µg/m³),11402,56559,0.0,0.1,231.3,0.0
+blr-hebbal-kspcb-2024-25.csv,NOx (ppb),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,NH3 (µg/m³),12079,55882,0.0,0.1,183.0,0.0
+blr-hebbal-kspcb-2024-25.csv,SO2 (µg/m³),9853,58108,0.0,0.1,37.0,0.0
+blr-hebbal-kspcb-2024-25.csv,CO (mg/m³),20502,47459,0.0,0.0,8.55,0.0
+blr-hebbal-kspcb-2024-25.csv,Ozone (µg/m³),6217,61744,0.0,0.01,263.03,0.0
+blr-hebbal-kspcb-2024-25.csv,Benzene (µg/m³),10867,57094,0.0,0.0,36.0,0.0
+blr-hebbal-kspcb-2024-25.csv,Toluene (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,Xylene (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,O Xylene (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,Eth-Benzene (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,MP-Xylene (µg/m³),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,AT (°C),876,67085,0.0,13.6,40.2,0.0
+blr-hebbal-kspcb-2024-25.csv,RH (%),4580,63381,0.0,1.0,99.0,0.0
+blr-hebbal-kspcb-2024-25.csv,WS (m/s),1787,66174,0.0,0.2,3.6,0.0
+blr-hebbal-kspcb-2024-25.csv,WD (deg),63714,4247,0.0,1.0,100.0,0.0
+blr-hebbal-kspcb-2024-25.csv,RF (mm),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,TOT-RF (mm),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,SR (W/mt2),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,BP (mmHg),67961,0,0.0,,,0.0
+blr-hebbal-kspcb-2024-25.csv,VWS (m/s),67961,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Station ID,0,66786,,,,
+blr-jayanagar-5th-block-kspcb-2024-25.csv,State,1,66785,,,,
+blr-jayanagar-5th-block-kspcb-2024-25.csv,City,1,66785,,,,
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Station Name,1,66785,,,,
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Timestamp,1,66785,,,,
+blr-jayanagar-5th-block-kspcb-2024-25.csv,PM2.5 (µg/m³),3577,63209,0.0,1.0,834.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,PM10 (µg/m³),3910,62876,0.0,1.0,823.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,NO (µg/m³),10825,55961,0.0,0.1,479.6,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,NO2 (µg/m³),7600,59186,0.0,0.1,465.6,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,NOx (ppb),7557,59229,0.0,0.0,419.3,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,NH3 (µg/m³),7825,58961,0.0,0.1,382.9,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,SO2 (µg/m³),3488,63298,0.0,0.1,107.9,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,CO (mg/m³),8270,58516,0.0,0.01,7.9,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Ozone (µg/m³),1631,65155,0.0,0.02,351.86,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Benzene (µg/m³),5633,61153,0.0,0.1,2.9,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Toluene (µg/m³),4221,62565,0.0,0.1,17.6,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Xylene (µg/m³),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,O Xylene (µg/m³),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,Eth-Benzene (µg/m³),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,MP-Xylene (µg/m³),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,AT (°C),1969,64817,0.0,16.5,50.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,RH (%),481,66305,0.0,9.0,95.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,WS (m/s),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,WD (deg),762,66024,0.0,1.0,354.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,RF (mm),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,TOT-RF (mm),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,SR (W/mt2),66786,0,0.0,,,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,BP (mmHg),1623,65163,0.0,700.0,758.0,0.0
+blr-jayanagar-5th-block-kspcb-2024-25.csv,VWS (m/s),66786,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,Station ID,0,65456,,,,
+blr-peenya-cpcb-2024-25.csv,State,1,65455,,,,
+blr-peenya-cpcb-2024-25.csv,City,1,65455,,,,
+blr-peenya-cpcb-2024-25.csv,Station Name,1,65455,,,,
+blr-peenya-cpcb-2024-25.csv,Timestamp,1,65455,,,,
+blr-peenya-cpcb-2024-25.csv,PM2.5 (µg/m³),3552,61904,0.0,0.01,226.85,0.0
+blr-peenya-cpcb-2024-25.csv,PM10 (µg/m³),8388,57068,0.0,5.98,359.83,0.0
+blr-peenya-cpcb-2024-25.csv,NO (µg/m³),1170,64286,0.0,0.01,497.6,0.0
+blr-peenya-cpcb-2024-25.csv,NO2 (µg/m³),1157,64299,0.0,0.02,443.3,0.0
+blr-peenya-cpcb-2024-25.csv,NOx (ppb),983,64473,0.0,0.0,497.52,0.0
+blr-peenya-cpcb-2024-25.csv,NH3 (µg/m³),1135,64321,0.0,0.02,481.88,0.0
+blr-peenya-cpcb-2024-25.csv,SO2 (µg/m³),5673,59783,0.0,0.01,186.02,0.0
+blr-peenya-cpcb-2024-25.csv,CO (mg/m³),4706,60750,0.0,0.0,8.45,0.0
+blr-peenya-cpcb-2024-25.csv,Ozone (µg/m³),5402,60054,0.0,0.26,183.6,0.0
+blr-peenya-cpcb-2024-25.csv,Benzene (µg/m³),1423,64033,0.0,0.0,33.23,0.0
+blr-peenya-cpcb-2024-25.csv,Toluene (µg/m³),1353,64103,0.0,0.0,153.87,0.0
+blr-peenya-cpcb-2024-25.csv,Xylene (µg/m³),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,O Xylene (µg/m³),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,Eth-Benzene (µg/m³),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,MP-Xylene (µg/m³),2190,63266,0.0,0.01,125.2,0.0
+blr-peenya-cpcb-2024-25.csv,AT (°C),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,RH (%),284,65172,0.0,0.1,99.77,0.0
+blr-peenya-cpcb-2024-25.csv,WS (m/s),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,WD (deg),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,RF (mm),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,TOT-RF (mm),65456,0,0.0,,,0.0
+blr-peenya-cpcb-2024-25.csv,SR (W/mt2),793,64663,0.0,0.02,1104.28,0.0
+blr-peenya-cpcb-2024-25.csv,BP (mmHg),75,65381,0.0,745.32,1061.99,0.0
+blr-peenya-cpcb-2024-25.csv,VWS (m/s),65456,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,Station ID,0,70177,,,,
+blr-silk-board-kspcb-2024-25.csv,State,1,70176,,,,
+blr-silk-board-kspcb-2024-25.csv,City,1,70176,,,,
+blr-silk-board-kspcb-2024-25.csv,Station Name,1,70176,,,,
+blr-silk-board-kspcb-2024-25.csv,Timestamp,1,70176,,,,
+blr-silk-board-kspcb-2024-25.csv,PM2.5 (µg/m³),8095,62082,0.0,1.0,873.0,0.0
+blr-silk-board-kspcb-2024-25.csv,PM10 (µg/m³),8770,61407,0.0,1.0,904.0,0.0
+blr-silk-board-kspcb-2024-25.csv,NO (µg/m³),17377,52800,0.0,0.1,355.1,0.0
+blr-silk-board-kspcb-2024-25.csv,NO2 (µg/m³),16163,54014,0.0,0.1,225.0,0.0
+blr-silk-board-kspcb-2024-25.csv,NOx (ppb),16032,54145,0.0,0.0,316.1,0.0
+blr-silk-board-kspcb-2024-25.csv,NH3 (µg/m³),16313,53864,0.0,0.1,163.2,0.0
+blr-silk-board-kspcb-2024-25.csv,SO2 (µg/m³),9376,60801,0.0,0.1,107.2,0.0
+blr-silk-board-kspcb-2024-25.csv,CO (mg/m³),19570,50607,0.0,0.0,9.07,0.0
+blr-silk-board-kspcb-2024-25.csv,Ozone (µg/m³),14452,55725,0.0,0.01,221.5,0.0
+blr-silk-board-kspcb-2024-25.csv,Benzene (µg/m³),10356,59821,0.0,0.0,3.9,0.0
+blr-silk-board-kspcb-2024-25.csv,Toluene (µg/m³),10356,59821,0.0,0.0,14.6,0.0
+blr-silk-board-kspcb-2024-25.csv,Xylene (µg/m³),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,O Xylene (µg/m³),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,Eth-Benzene (µg/m³),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,MP-Xylene (µg/m³),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,AT (°C),7963,62214,0.0,12.9,38.1,0.0
+blr-silk-board-kspcb-2024-25.csv,RH (%),7152,63025,0.0,19.0,99.0,0.0
+blr-silk-board-kspcb-2024-25.csv,WS (m/s),7213,62964,0.0,0.2,14.8,0.0
+blr-silk-board-kspcb-2024-25.csv,WD (deg),7244,62933,0.0,6.0,355.0,0.0
+blr-silk-board-kspcb-2024-25.csv,RF (mm),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,TOT-RF (mm),1,70176,0.0,0.0,0.0,0.0
+blr-silk-board-kspcb-2024-25.csv,SR (W/mt2),70177,0,0.0,,,0.0
+blr-silk-board-kspcb-2024-25.csv,BP (mmHg),15793,54384,0.0,702.0,981.0,0.0
+blr-silk-board-kspcb-2024-25.csv,VWS (m/s),70177,0,0.0,,,0.0

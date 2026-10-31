@@ -1,0 +1,6 @@
+claim,value,source
+Raw source rows,398420,data/manifest.json records sum
+Valid station hours,92479,outputs/metrics/performance.json output_hourly_records
+Complete six station hours,7990,outputs/tables/complete_case_spike_distribution.csv count sum
+Complete hours with multiple spikes,461,outputs/tables/complete_case_spike_distribution.csv spiking_stations >= 2
+Rejected source rows,28097,performance.json cleaning_counts raw minus valid

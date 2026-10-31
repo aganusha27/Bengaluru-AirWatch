@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://doi.org/10.1007/s10661-024-12678-z",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s10661-024-12678-z?error=cookies_not_supported&code=4a47f47e-8df2-43f5-9cbf-c58642ae0a43",
+    "content_type": "text/html; charset=utf-8",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s10661-024-12678-z",
+    "status": 200,
+    "final_url": "https://link.springer.com/article/10.1007/s10661-024-12678-z?error=cookies_not_supported&code=806b4d9a-d942-4d24-be6a-3a3b366e3fc7",
+    "content_type": "text/html; charset=utf-8",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38700603/",
+    "status": 200,
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/38700603/",
+    "content_type": "text/html; charset=utf-8",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://www.researchgate.net/publication/380321341_Temporal_dynamics_of_urban_air_pollutants_and_their_correlation_with_associated_meteorological_parameters_an_investigation_in_northern_Indian_cities",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "checked": "2026-10-31",
+    "note": "Automated access restricted or failed; do not infer nonexistence"
+  },
+  {
+    "url": "https://data.opencity.in/dataset/bengaluru-hourly-air-quality-reports",
+    "status": 200,
+    "final_url": "https://data.opencity.in/dataset/bengaluru-hourly-air-quality-reports",
+    "content_type": "text/html; charset=utf-8",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://spark.apache.org/docs/4.0.1/api/python/getting_started/install.html",
+    "status": 200,
+    "final_url": "https://spark.apache.org/docs/4.0.1/api/python/getting_started/install.html",
+    "content_type": "text/html",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://spark.apache.org/docs/4.0.1/api/python/reference/pyspark.sql/api/pyspark.sql.functions.percentile.html",
+    "status": 200,
+    "final_url": "https://spark.apache.org/docs/4.0.1/api/python/reference/pyspark.sql/api/pyspark.sql.functions.percentile.html",
+    "content_type": "text/html",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  },
+  {
+    "url": "https://data.opencity.in/api/3/action/package_show?id=bengaluru-hourly-air-quality-reports",
+    "status": 200,
+    "final_url": "https://data.opencity.in/api/3/action/package_show?id=bengaluru-hourly-air-quality-reports",
+    "content_type": "application/json;charset=utf-8",
+    "checked": "2026-10-31",
+    "note": "GET request succeeded; full-text or resource permissions may differ"
+  }
+]

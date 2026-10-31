@@ -1,0 +1,7 @@
+file,station,records,bytes,columns,start_utc,end_utc,timezone,has_aqi,pm25_unit,schema_compatible
+blr-bapuji-nagar-kspcb-2024-25.csv,"Bapuji Nagar, Bengaluru - KSPCB",64195,10808871,29,2024-01-01 00:00:00+00:00,2025-11-09 01:45:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True
+blr-btm-layout-cpcb-2024-25.csv,"BTM Layout, Bengaluru - CPCB",63845,12688114,29,2024-01-01 00:00:00+00:00,2025-12-31 23:45:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True
+blr-hebbal-kspcb-2024-25.csv,"Hebbal, Bengaluru - KSPCB",67961,10000302,29,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True
+blr-jayanagar-5th-block-kspcb-2024-25.csv,"Jayanagar 5th Block, Bengaluru - KSPCB",66786,11753204,29,2024-01-01 00:00:00+00:00,2025-12-31 23:30:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True
+blr-peenya-cpcb-2024-25.csv,"Peenya, Bengaluru - CPCB",65456,11641908,29,2024-01-01 00:00:00+00:00,2025-12-31 23:45:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True
+blr-silk-board-kspcb-2024-25.csv,"Silk Board, Bengaluru - KSPCB",70177,11641884,29,2024-01-01 00:00:00+00:00,2025-12-31 23:45:00+00:00,UTC offset explicitly encoded in CSV,False,ug/m3,True

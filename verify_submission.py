@@ -56,7 +56,16 @@ def main():
     output={'status':'PASS','faculty_sections':8,'charts':8,'viva_questions':25,'report_pages':len(pdf.pages),
             'report_images':len(doc.inline_shapes),'claim_ledger_values_checked':len(claims),
             'raw_hashes_verified_if_present':True,'independent_analytical_verification':'PASS',
-            'note':'Numerical report text and tables are built from independently verified output tables; administrative team fields require user details.'}
+            'note':'Numerical report text and tables are built from independently verified output tables.'}
+    team_file=root/'report/team_details.json'
+    if team_file.exists():
+        team=json.loads(team_file.read_text())
+        cover_text='\n'.join(c.text for t in doc.tables for row in t.rows for c in row.cells)
+        assert team['faculty_guide'] in text and team['faculty_guide'] in pdftext
+        for member in team['members']:
+            assert member['name'] in cover_text and member['usn'] in cover_text
+            assert member['name'] in pdftext and member['usn'] in pdftext
+        output['team_and_faculty_verified']=True
     (root/'outputs/metrics/submission_verification.json').write_text(json.dumps(output,indent=2))
     print(json.dumps(output,indent=2))
 

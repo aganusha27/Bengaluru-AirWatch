@@ -14,7 +14,7 @@ The eight mandatory faculty sections are addressed in the final report. Completi
 | Tools, responsible use and references | 8 | requirements.txt; data/catalog_snapshot.json; report/references.md | COMPLETE |
 
 ## Submission administration
-Add the group member names, USNs, responsibilities and faculty guide to report/team_details.json and regenerate the cover before submission.
+Verify group member and faculty details before submission.
 Private collaborator invitation requires the collaborator username. This does not change the eight technical-content completion statuses. See GITHUB_STATUS.json for verified repository status.
 
 ## Deliberate analytical scope

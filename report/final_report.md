@@ -9,6 +9,13 @@ Academic term 2026
 Historical observations from six Bengaluru monitoring stations
 Study window 1 January 2024 to 31 December 2025 in IST
 
+Student name | USN
+--- | ---
+Anusha Agarwal | 1MS24CS034
+Jeevika N | 1MS24CS071
+
+Faculty guide: Uzma Sulthana
+
 Analysis executed on 2026-10-31. All reported project measurements come from the saved execution outputs.
 
 ## Report contents

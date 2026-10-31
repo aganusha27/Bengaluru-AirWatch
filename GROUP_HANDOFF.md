@@ -16,7 +16,7 @@ The empirical PM2.5 project is implemented and executed. Source rows: 398,420; v
 Real OpenCity files acquired, hashes checked, actual schemas inspected, PySpark executed, all requested analyses completed, charts generated, outputs independently cross-checked, report generated, walkthrough and 25 viva questions prepared. Consult GITHUB_STATUS.json for verified push status and the verified artifact commit.
 
 ## Incomplete submission details
-Add the group member names, USNs, responsibilities and faculty guide to report/team_details.json and regenerate the cover before submission.
+Verify group member and faculty details before submission.
 The repository is private. A collaborator username was not supplied; no collaborator was added. The owner can open repository Settings → Collaborators → Add people, enter the intended GitHub username, and send the invitation. The friend must accept before cloning the private repository.
 
 ## Installation and execution
@@ -39,4 +39,3 @@ Unequal coverage, source timezone convention unconfirmed beyond encoded offsets,
 
 ## Important files and next actions
 Read README.md, ASSIGNMENT_CHECKLIST.md, PROJECT_WALKTHROUGH.md, report/final_report.md and outputs/metrics/verification.json. Inspect raw source updates before changing pinned hashes. Rebuilding the report requires a completed local run; generating its PDF additionally requires LibreOffice and Poppler. Rerun checks after any numerical or methodological change. The recorded report and chart outputs can be reviewed without installing Spark.
-

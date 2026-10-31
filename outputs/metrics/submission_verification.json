@@ -8,5 +8,6 @@
   "claim_ledger_values_checked": 5,
   "raw_hashes_verified_if_present": true,
   "independent_analytical_verification": "PASS",
-  "note": "Numerical report text and tables are built from independently verified output tables; administrative team fields require user details."
+  "note": "Numerical report text and tables are built from independently verified output tables.",
+  "team_and_faculty_verified": true
 }

@@ -85,7 +85,10 @@ def build():
     team_path=ROOT/'report/team_details.json'
     team=json.loads(team_path.read_text()) if team_path.exists() else {}
     if team.get('members'):
-        table(['Student name','USN','Responsibility'],[[v.get('name',''),v.get('usn',''),v.get('responsibility','')] for v in team['members']])
+        if any(v.get('responsibility') for v in team['members']):
+            table(['Student name','USN','Responsibility'],[[v.get('name',''),v.get('usn',''),v.get('responsibility','')] for v in team['members']])
+        else:
+            table(['Student name','USN'],[[v.get('name',''),v.get('usn','')] for v in team['members']])
     if team.get('faculty_guide'):p('Faculty guide: '+team['faculty_guide'])
     p('Analysis executed on '+m['run_time_ist'][:10]+'. All reported project measurements come from the saved execution outputs.')
     doc.add_page_break()
